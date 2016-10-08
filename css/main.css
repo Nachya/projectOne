@@ -1,6 +1,11 @@
 html {
 	margin: 0 2%;
 }
+
+@-ms-viewport{
+  width: device-width;
+}
+
 #name {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
